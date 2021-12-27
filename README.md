@@ -29,5 +29,5 @@ The web facilitates access to registered members for uploading and downloading f
 "Needs" page is to allow registered members publish list of things they need, perhaps any member may have them.
 
 #### Resource" page.
-Resource page is also accessible through "Transactions" button. This page is to facilitate link to external resources as necessary. For demostration, it is linked with an online election portal. The election site is resourceful for conducting free, fair, transparent and reliable elections. Everyone from anywhere there is internet connection can vote and be voted for. Site like this can help build trust in executive members of the group.
+Resource page is also accessible through "Transactions" button. This page is to facilitate link to external resources as necessary. For demostration, it is linked with an online election portal "electionrunner". The election site, where important election(s) can be set up in seconds, is resourceful for conducting free, fair, transparent and reliable elections. Everyone from anywhere there is internet connection can vote and be voted for. Site like this can help build trust in executive members of the group.
 
