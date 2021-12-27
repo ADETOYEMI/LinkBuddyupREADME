@@ -20,3 +20,13 @@ It also hosts the "Register", "Login" and "Logout" buttons.
 
 ###The "Member's Bio" page was created to allow every member input and submit their "name", "month of birth", "day of birth", "email address", "present city" and "present county" of residence onto the database.
 
+###"Loadup" and "download" pages
+The web facilitates access to registered members for uploading and downloading files and images that everymember can access as needed. To upload, "POST" method was used in the python's application to route the codes to upload.html. For feedback, if upload of files and images is/are successful, "uploaded.html", kept in template folder along with all html file, will be rendered for display on the website. A folder(FoldM) was coded for uploading files and images. To download, "GET" request method was used to send the code with python application. Source folder is foldM in the code. On the website, "Depository" button is the access to view files in the server. 
+
+### "Offer" and "Needs" pages
+"Offer" and "Needs" pages are accessible through "Transactions" button on the "Home" page. "Offer" page is for registered members to display objects, treasures or properties that others can use or acquire before they are exposed to the public.
+"Needs" page is to allow registered members publish list of things they need, perhaps any member may have them.
+
+###Resource" page.
+Resource page is also accessible through "Transactions" button. This page is to facilitate link to external resources as necessary. For demostration, it is linked with an online election portal. The election site is resourceful for conducting free, fair, transparent and reliable elections. Everyone from anywhere there is internet connection can vote and be voted for. Site like this can help build trust in executive members of the group.
+
